@@ -1,0 +1,4997 @@
+[
+  {
+    "ItemID":"item_001",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_002",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_003",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_004",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_005",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_006",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_007",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_008",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_009",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_010",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_011",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_012",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_013",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_014",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_015",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_016",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_017",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_018",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_019",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_020",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_021",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_022",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_023",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_024",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_025",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_026",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_027",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_028",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_029",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_030",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_031",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_032",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_033",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_034",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_035",
+    "Category":"Туфли",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_036",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_037",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_038",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_039",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_040",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_041",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_042",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_043",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_044",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_045",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_046",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_047",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_048",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_049",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_050",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_051",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_052",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_053",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_054",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_055",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_056",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_057",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_058",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_059",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_060",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_061",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_062",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_063",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_064",
+    "Category":"Сумки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_065",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_066",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_067",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_068",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_069",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_070",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_071",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_072",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_073",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_074",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_075",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_076",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_077",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_078",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_079",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_080",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_081",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_082",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_083",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_084",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_085",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_086",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_087",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_088",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_089",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_090",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_091",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_092",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_093",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_094",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_095",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_096",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_097",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_098",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_099",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_100",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_101",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_102",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_103",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_104",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_105",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_106",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_107",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_108",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_109",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_110",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_111",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_112",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_113",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_114",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_115",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_116",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_117",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_118",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_119",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_120",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_121",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_122",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_123",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_124",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_125",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_126",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_127",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_128",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_129",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_130",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_131",
+    "Category":"Кремы",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_132",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_133",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_134",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_135",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_136",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_137",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_138",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_139",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_140",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_141",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_142",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_143",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_144",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_145",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_146",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_147",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_148",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_149",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_150",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_151",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_152",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_153",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_154",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_155",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_156",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_157",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_158",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_159",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_160",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_161",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_162",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_163",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_164",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_165",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_166",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_167",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_168",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_169",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_170",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_171",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_172",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_173",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_174",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_175",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_176",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_177",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_178",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_179",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_180",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_181",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_182",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_183",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_184",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_185",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_186",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_187",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_188",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_189",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_190",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_191",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_192",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_193",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_194",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_195",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_196",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_197",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_198",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_199",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_200",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_201",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_202",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_203",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_204",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_205",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_206",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_207",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_208",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_209",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_210",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_211",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_212",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_213",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_214",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_215",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_216",
+    "Category":"Кремы",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_217",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_218",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_219",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_220",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_221",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_222",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_223",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_224",
+    "Category":"Кремы",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_225",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_226",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_227",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_228",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_229",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_230",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_231",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_232",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_233",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_234",
+    "Category":"Туфли",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_235",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_236",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_237",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_238",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_239",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_240",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_241",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_242",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_243",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_244",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_245",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_246",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_247",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_248",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_249",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_250",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_251",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_252",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_253",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_254",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_255",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_256",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_257",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_258",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_259",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_260",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_261",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_262",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_263",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_264",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_265",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_266",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_267",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_268",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_269",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_270",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_271",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_272",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_273",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_274",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_275",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_276",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_277",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_278",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_279",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_280",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_281",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_282",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_283",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_284",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_285",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_286",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_287",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_288",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_289",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_290",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_291",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_292",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_293",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_294",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_295",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_296",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_297",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_298",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_299",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_300",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_301",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_302",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_303",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_304",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_305",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_306",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_307",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_308",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_309",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_310",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_311",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_312",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_313",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_314",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_315",
+    "Category":"Туфли",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_316",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_317",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_318",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_319",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_320",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_321",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_322",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_323",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_324",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_325",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_326",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_327",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_328",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_329",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_330",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_331",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_332",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_333",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_334",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_335",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_336",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_337",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_338",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_339",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_340",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_341",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_342",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_343",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_344",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_345",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_346",
+    "Category":"Туфли",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_347",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_348",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_349",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_350",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_351",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_352",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_353",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_354",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_355",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_356",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_357",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_358",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_359",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_360",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_361",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_362",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_363",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_364",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_365",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_366",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_367",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_368",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_369",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_370",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_371",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_372",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_373",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_374",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_375",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_376",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_377",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_378",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_379",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_380",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_381",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_382",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_383",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_384",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_385",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_386",
+    "Category":"Сумки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_387",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_388",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_389",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_390",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_391",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_392",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_393",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_394",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_395",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_396",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_397",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_398",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_399",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_400",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_401",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_402",
+    "Category":"Туфли",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_403",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_404",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_405",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_406",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_407",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_408",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_409",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_410",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_411",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_412",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_413",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_414",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_415",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_416",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_417",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_418",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_419",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_420",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_421",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_422",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_423",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_424",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_425",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_426",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_427",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_428",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_429",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_430",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_431",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_432",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_433",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_434",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_435",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_436",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_437",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_438",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_439",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_440",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_441",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_442",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_443",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_444",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_445",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_446",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_447",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_448",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_449",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_450",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_451",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_452",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_453",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_454",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_455",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_456",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_457",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_458",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_459",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_460",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_461",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_462",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_463",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_464",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_465",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_466",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_467",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_468",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_469",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_470",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_471",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_472",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_473",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_474",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_475",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_476",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_477",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_478",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_479",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_480",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_481",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_482",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_483",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_484",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_485",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_486",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_487",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_488",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_489",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_490",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_491",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_492",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_493",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_494",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_495",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_496",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_497",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_498",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_499",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_500",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_501",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_502",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_503",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_504",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_505",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_506",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_507",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_508",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_509",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_510",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_511",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_512",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_513",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_514",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_515",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_516",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_517",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_518",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_519",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_520",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_521",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_522",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_523",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_524",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_525",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_526",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_527",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_528",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_529",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_530",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_531",
+    "Category":"Кремы",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_532",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_533",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_534",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_535",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_536",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_537",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_538",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_539",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_540",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_541",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_542",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_543",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_544",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_545",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_546",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_547",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_548",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_549",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_550",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_551",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_552",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_553",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_554",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_555",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_556",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_557",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_558",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_559",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_560",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_561",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_562",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_563",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_564",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_565",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_566",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_567",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_568",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_569",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_570",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_571",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_572",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_573",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_574",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_575",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_576",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_577",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_578",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_579",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_580",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_581",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_582",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_583",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_584",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_585",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_586",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_587",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_588",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_589",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_590",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_591",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_592",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_593",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_594",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_595",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_596",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_597",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_598",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_599",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_600",
+    "Category":"Сумки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_601",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_602",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_603",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_604",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_605",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_606",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_607",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_608",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_609",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_610",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_611",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_612",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_613",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_614",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_615",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_616",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_617",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_618",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_619",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_620",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_621",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_622",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_623",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_624",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_625",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_626",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_627",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_628",
+    "Category":"Молочные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_629",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_630",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_631",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_632",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_633",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_634",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_635",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_636",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_637",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_638",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_639",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_640",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_641",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_642",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_643",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_644",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_645",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_646",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_647",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_648",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_649",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_650",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_651",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_652",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_653",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_654",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_655",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_656",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_657",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_658",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_659",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_660",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_661",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_662",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_663",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_664",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_665",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_666",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_667",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_668",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_669",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_670",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_671",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_672",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_673",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_674",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_675",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_676",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_677",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_678",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_679",
+    "Category":"Автохимия",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_680",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_681",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_682",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_683",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_684",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_685",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_686",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_687",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_688",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_689",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_690",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_691",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_692",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_693",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_694",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_695",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_696",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_697",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_698",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_699",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_700",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_701",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_702",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_703",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_704",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_705",
+    "Category":"Принтеры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_706",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_707",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_708",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_709",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_710",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_711",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_712",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_713",
+    "Category":"Туфли",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_714",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_715",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_716",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_717",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_718",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_719",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_720",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_721",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_722",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_723",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_724",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_725",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_726",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_727",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_728",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_729",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_730",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_731",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_732",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_733",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_734",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_735",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_736",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_737",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_738",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_739",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_740",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_741",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_742",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_743",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_744",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_745",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_746",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_747",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_748",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_749",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_750",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_751",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_752",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_753",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_754",
+    "Category":"Сумки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_755",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_756",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_757",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_758",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_759",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_760",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_761",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_762",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_763",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_764",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_765",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_766",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_767",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_768",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_769",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_770",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_771",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_772",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_773",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_774",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_775",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_776",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_777",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_778",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_779",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_780",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_781",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_782",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_783",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_784",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_785",
+    "Category":"Стиральные машины",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_786",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_787",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_788",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_789",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_790",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_791",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_792",
+    "Category":"Джинсы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_793",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_794",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_795",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_796",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_797",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_798",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_799",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_800",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_801",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_802",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_803",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_804",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_805",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_806",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_807",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_808",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_809",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_810",
+    "Category":"Спальные мешки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_811",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_812",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_813",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_814",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_815",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_816",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_817",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_818",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_819",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_820",
+    "Category":"Карандаши",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_821",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_822",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_823",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_824",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_825",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_826",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_827",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_828",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_829",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_830",
+    "Category":"Витамины",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_831",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_832",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_833",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_834",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_835",
+    "Category":"Спортивные костюмы",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_836",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_837",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_838",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_839",
+    "Category":"Мужские футболки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_840",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_841",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_842",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_843",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_844",
+    "Category":"Учебники",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_845",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_846",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_847",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_848",
+    "Category":"Холодильники",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_849",
+    "Category":"Линолеум",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_850",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_851",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_852",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_853",
+    "Category":"Замороженные продукты",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_854",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_855",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_856",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_857",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_858",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_859",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_860",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_861",
+    "Category":"Шарфы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_862",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_863",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_864",
+    "Category":"Диваны",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_865",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_866",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_867",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_868",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_869",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_870",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_871",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_872",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_873",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_874",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_875",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_876",
+    "Category":"Блокноты",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_877",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_878",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_879",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_880",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_881",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_882",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_883",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_884",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_885",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_886",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_887",
+    "Category":"Мониторы",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_888",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_889",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_890",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_891",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_892",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_893",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_894",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_895",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_896",
+    "Category":"Постельное белье",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_897",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_898",
+    "Category":"Лекарственные травы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_899",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_900",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_901",
+    "Category":"Вода",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_902",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_903",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_904",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_905",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_906",
+    "Category":"БАДы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_907",
+    "Category":"Фотоаппараты",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_908",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_909",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_910",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_911",
+    "Category":"Наполнители",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_912",
+    "Category":"Сумки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_913",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_914",
+    "Category":"Кофе",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_915",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_916",
+    "Category":"Головные уборы",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_917",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_918",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_919",
+    "Category":"Ремни",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_920",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_921",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_922",
+    "Category":"Велосипеды",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_923",
+    "Category":"Пылесосы",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_924",
+    "Category":"Сумки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_925",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_926",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_927",
+    "Category":"Кроссовки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_928",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_929",
+    "Category":"Компьютерные мыши",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_930",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_931",
+    "Category":"Телевизоры",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_932",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_933",
+    "Category":"Наушники",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_934",
+    "Category":"Ручки",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_935",
+    "Category":"Кондитерские изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_936",
+    "Category":"Кофеварки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_937",
+    "Category":"Ноутбуки",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_938",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_939",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_940",
+    "Category":"Детское питание",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_941",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_942",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_943",
+    "Category":"Сандалии",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_944",
+    "Category":"Декоративная косметика",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_945",
+    "Category":"Тренажеры",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_946",
+    "Category":"Смартфоны",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_947",
+    "Category":"Сапоги",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_948",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_949",
+    "Category":"Шторы",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_950",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_951",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_952",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_953",
+    "Category":"Аквариумы",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_954",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_955",
+    "Category":"Кремы",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_956",
+    "Category":"Кошельки",
+    "ParentCategory":"Аксессуары"
+  },
+  {
+    "ItemID":"item_957",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_958",
+    "Category":"Аптечки",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_959",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_960",
+    "Category":"Кухонные гарнитуры",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_961",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_962",
+    "Category":"Детская мебель",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_963",
+    "Category":"Автокосметика",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_964",
+    "Category":"Автозапчасти",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_965",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_966",
+    "Category":"Игрушки для животных",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_967",
+    "Category":"Подгузники",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_968",
+    "Category":"Газированные напитки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_969",
+    "Category":"Инструменты",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_970",
+    "Category":"Светильники",
+    "ParentCategory":"Дом и интерьер"
+  },
+  {
+    "ItemID":"item_971",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_972",
+    "Category":"Микроволновки",
+    "ParentCategory":"Бытовая техника"
+  },
+  {
+    "ItemID":"item_973",
+    "Category":"Автомасла",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_974",
+    "Category":"Корм для собак",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_975",
+    "Category":"Клавиатуры",
+    "ParentCategory":"Компьютеры и офис"
+  },
+  {
+    "ItemID":"item_976",
+    "Category":"Тапочки",
+    "ParentCategory":"Обувь"
+  },
+  {
+    "ItemID":"item_977",
+    "Category":"Чай",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_978",
+    "Category":"Обои",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_979",
+    "Category":"Художественная литература",
+    "ParentCategory":"Книги и канцтовары"
+  },
+  {
+    "ItemID":"item_980",
+    "Category":"Парфюмерия",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_981",
+    "Category":"Бакалея",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_982",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_983",
+    "Category":"Средства для бритья",
+    "ParentCategory":"Красота и уход"
+  },
+  {
+    "ItemID":"item_984",
+    "Category":"Соки",
+    "ParentCategory":"Напитки"
+  },
+  {
+    "ItemID":"item_985",
+    "Category":"Умные часы",
+    "ParentCategory":"Электроника"
+  },
+  {
+    "ItemID":"item_986",
+    "Category":"Коляски",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_987",
+    "Category":"Медицинские приборы",
+    "ParentCategory":"Здоровье"
+  },
+  {
+    "ItemID":"item_988",
+    "Category":"Корм для кошек",
+    "ParentCategory":"Зоотовары"
+  },
+  {
+    "ItemID":"item_989",
+    "Category":"Женские платья",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_990",
+    "Category":"Мячи",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_991",
+    "Category":"Автоаксессуары",
+    "ParentCategory":"Автотовары"
+  },
+  {
+    "ItemID":"item_992",
+    "Category":"Игрушки",
+    "ParentCategory":"Детские товары"
+  },
+  {
+    "ItemID":"item_993",
+    "Category":"Краски",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_994",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_995",
+    "Category":"Сантехника",
+    "ParentCategory":"Строительство"
+  },
+  {
+    "ItemID":"item_996",
+    "Category":"Мясные изделия",
+    "ParentCategory":"Продукты питания"
+  },
+  {
+    "ItemID":"item_997",
+    "Category":"Детские куртки",
+    "ParentCategory":"Одежда"
+  },
+  {
+    "ItemID":"item_998",
+    "Category":"Рюкзаки",
+    "ParentCategory":"Спорт и отдых"
+  },
+  {
+    "ItemID":"item_999",
+    "Category":"Шампуни",
+    "ParentCategory":"Красота и уход"
+  }
+]
